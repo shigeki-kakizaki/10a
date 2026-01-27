@@ -1,6 +1,0 @@
-- cd コマンドで作業場所に移動する
-- git remote -v を使ってリモートリポジトリの URL を確認する
-- 自分の名前２文字＋名字をファイル名とする「〇〇.html」を作る
-- 例：茂樹 shigeki 柿﨑 kakizaki → 　 shkakizaki.html
-- add, commit, push コマンドを実行する。commit 時は適切なコメントを残す
-- GitHub の commits を確認して自分の commit をスクリーンショットで提出する
